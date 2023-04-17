@@ -8,3 +8,5 @@ Programming language to be learned :
 2. ReactJS
 3. Python
 4. JS
+5. Tailwind CSS
+6. php
