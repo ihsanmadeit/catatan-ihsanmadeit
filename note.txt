@@ -1,6 +1,7 @@
 Learned programming language and Certificate:
 1. HTML
 2. CSS
+3. PHP
 Certificate :
 
 Programming language to be learned :
@@ -9,4 +10,3 @@ Programming language to be learned :
 3. Python
 4. JS
 5. Tailwind CSS
-6. php
