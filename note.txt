@@ -1,0 +1,10 @@
+Learned programming language and Certificate:
+1. HTML
+2. CSS
+Certificate :
+
+Programming language to be learned :
+1. PosgreSQL
+2. ReactJS
+3. Python
+4. JS
